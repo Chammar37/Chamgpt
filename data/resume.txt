@@ -1,0 +1,37 @@
+Marc Chami
+Toronto, Canada  US Citizen  m.chami37@hotmail.com  (905) 483-1512     
+Work Experience
+SOFTWARE ENGINEER, DEVOPS – RBC - Toronto, Canada	May 2021 - Present
+●	Led infra development for the Data Hub AI Modernization initiative, building applications, configuring Linux environments, and CI/CD pipeline deployment for solutions like Cloudera edge nodes accessed via JupyterHub; introduced various supplementary data science tools, boosting productivity by over 85%.
+●	Developed and maintained applications and Linux environments utilizing CI/CD pipelines, Docker, and Kubernetes; ensured seamless operation of queries on Airflow, Jupyter, and CDH instances.
+●	Project Managed technical meetings related to enterprise modernization projects, liaising with vendors such as Arcad for IBM RDi solutions. 
+●	Developed, deployed, and maintained applications, pipelines, and environments leveraging technologies like GitHub, Kubernetes, Jenkins, OpenShift3/4, JFrog, Docker, Vault, S3, Kerberos, Postgres, and Apache Apps, while expanding the DevOps team.
+●	Collaborated on Agile projects with internal and external applications, delivering significant benefits to RBC employees and clients through innovative software engineering and data science methodologies.
+QE AUTOMATION & DATA ANALYST (INTERN) – RBC - Toronto, Canada	May 2020 – Sept. 2020
+●	Supported the development and maintenance of our ELK pipeline to gather and process data from many different applications (such as Jira, qTest, HPALM), ensuring seamless data management.
+●	Developed Kibana dashboards to showcase KPIs, optimizing time management for a team of 40+ employees, and reducing time spent by over 50% through an efficient data extraction model in ongoing Agile projects.
+●	Continually maintained and enhanced our ELK environment, utilizing languages such as Lucene and KQL for streamlined performance and process improvements.
+FULL STACK DEVELOPER (INTERN) – Ridecycle - Toronto, Canada	May 2019 – Sept. 2019
+●	Handled the backend implementation during the design process for the Restful APIs using Node.JS.
+●	Implemented fetch calls to the front-end using Axios in React from Google Firebase.
+●	Coordinated tasks with dev lead on Trello and maintained Git source control to increase efficiency by 60% with Agile methods. 
+FULL STACK ENGINEER– IOGKF Canada - Burlington, Canada	Dec. 2020 – Apri. 2021
+●	Led development team with knowledge of company standards and business objectives. Rearchitect and implemented optimal tech-stack for the event-based website using WordPress, MySQL, JavaScript, HTML, and Google Maps API. Increase engagement by 80%.
+Projects
+REAL-TIME SENTIMENT ANALYSIS 	
+●	Designed and implemented big data pipeline for real-time sentiment analysis of an incoming stream of tweets, ensuring efficient retrieval and instant evaluation through NLTK.
+●	Utilized technologies such as Spark, Kafka, Hadoop, Map-Reduce, Docker, Tweepy, and NLTK to streamline, collect, organize, analyze, and assess data in a real-time warehouse. 
+ALBUM RECOMMEND	
+●	Developed an Album Recommender with Java Spring backend and SvelteJS frontend, integrating large language models for personalized recommendations. Featuring an easy-to-use intuitive design, inspired by industry best practices.
+●	Computed similarity scores based on attributes of each clicked album or song, utilizing data structures efficient for implementation.
+Education
+B.Sc. Computer Science with Honours - Lassonde School of Engineering, York University	2017 Sept. – 2021 Aug.
+Courses: Advanced Software Engineering, Big Data Systems, Software Design, Data Structures, Info Networks, TensorFlow, etc.
+Technical Skills
+Languages
+Java, GoLang, C, Python/IPYNB, JavaScript, SQL, HTML, CSS, Docker, VIM, Bash/Shell	
+Frameworks
+Spring-Framework, TensorFlow, Kubernetes, NextJS, React.js, Node.js, Vault, Spark, Hadoop, Hive, Yarn, Kafka, Kerberos, Map-Reduce, Redis, Postgres, REST services, etc.	
+Applications
+VSCode, Eclipse, Git, GitHub, Jenkins, RedHat OpenShift, Jupyter, Snowflake, Airflow, Ansible, AWS, Microsoft Azure
+
